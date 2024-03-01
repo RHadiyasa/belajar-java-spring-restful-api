@@ -8,6 +8,7 @@ public class BankSampahApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BankSampahApplication.class, args);
+		//Tambah Sesuatu
 	}
 
 }
